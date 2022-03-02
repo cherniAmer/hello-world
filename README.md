@@ -8,4 +8,4 @@ npm install
 ### to start the compilation process
 ```
 
-docker-composer up
+docker-compose up
